@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/build/intermediates/pre-dexed/debug/classes-9c94307699ccde3a5e331079fb1f90f3fcedb8d2.jar"
+        jar="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-161b8ec7a4ecd99f570e2f0ee863a7393a36f812.jar"
+        jar="/Users/Bodey/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/build/intermediates/pre-dexed/debug/accessory-v2.0.19-9be1e856196779e56bdca8abe6a09b1fe592772f.jar"
+        jar="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/libs/accessory-v2.0.19.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="212f222a14157238e106eb6d22ad0750bdd7b8e1"/>
+    <item
+        dex="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-3b153a95cd20db0a292ce7c3612b0bc24c0e462f.jar"
+        jar="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/build/intermediates/pre-dexed/debug/sdk-v1.0.0-34de4222101f1ca476c8082d4eb23975ebf330f7.jar"
+        jar="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/libs/sdk-v1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c"/>
+
+</pre-dex-items>

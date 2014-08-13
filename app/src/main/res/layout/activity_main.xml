@@ -1,0 +1,60 @@
+
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+        tools:context=".service.MyActivity">
+
+
+
+
+
+        <WebView  xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/webview"
+
+            android:visibility="visible"
+            android:background="@android:color/darker_gray"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+
+            android:layout_gravity="center" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Update"
+            android:id="@+id/button"
+            android:layout_weight="0.10"
+            android:textColor="@android:color/white"
+            android:background="@android:color/holo_green_dark" />
+
+        <ScrollView
+            android:id="@+id/SCROLLER_ID"
+            android:layout_width="match_parent"
+            android:layout_height="191dp"
+            android:scrollbars="vertical"
+            android:fillViewport="true"
+            android:layout_weight="0.57"
+            android:background="@android:color/black">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/textView"
+            android:textStyle="bold"
+            android:text=""
+
+            android:scrollbars = "vertical"
+            android:gravity="center|fill_vertical"
+            android:layout_below="@+id/button"
+            android:textColor="@android:color/white" />
+    </ScrollView>
+
+    </LinearLayout>
+
+

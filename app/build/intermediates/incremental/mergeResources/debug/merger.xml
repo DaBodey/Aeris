@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res" >
+            <file
+                name="ic_72x72"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-hdpi/ic_72x72.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_722x"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-hdpi/icon_722x.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_72x72"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-mdpi/ic_72x72.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_722x"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-mdpi/icon_722x.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_72x72"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-xhdpi/ic_72x72.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_722x"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-xhdpi/icon_722x.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_72x72"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-xxhdpi/ic_72x72.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_722x"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/drawable-xxhdpi/icon_722x.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="ConnectionEstablishedMsg" >HelloAccessory Connection established with RemotePeer
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >HelloAccessory(P)
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+
+                </style>
+            </file>
+            <file
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+
+                </style>
+            </file>
+            <file
+                name="accessoryservices"
+                path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/main/res/xml/accessoryservices.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/build/generated/res/rs/debug" />
+        <source path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Bodey/AndroidStudioProjects/HelloAccessoryProvider2/app/src/debug/res" />
+    </dataSet>
+
+</merger>
